@@ -1,4 +1,4 @@
-<h1>TJA</h1>
+<h1 align="center"><img src="https://github.com/panoply/panoply/blob/b28c7c2b6c15276c540e60ccfa92137381de4d8d/sip.gif" width="450px" align="center"></h4>
 
 <p><i>My name is Nik. I primarily work with established apparel brands, fashion designers and fashion agencies alike creating innovative headless/static commerce web app solutions for B2B and B2C businesses. Currently I'm focused on creating applications using Elixir, JavaScript/TypeScript (Node, Browser, Electron) languages atop of serverless architecture and cloud databasing technologies.</i></p>
 
