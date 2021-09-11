@@ -7,3 +7,7 @@ _I am not your typical software engineer. I work rogue in this nexus with an eso
 #### _[MAIL ME](mailto:nicos@gmx.com)_
 
 #### _[FOLLOW ME](https://twitter.com/kaossissel)_
+
+#### _FAVOURITES_
+
+<img src="https://github.com/panoply/panoply/blob/6929889f1a3ed510724b031cf3525cc3c5c26b55/stack.png" width="90%">
