@@ -19,4 +19,4 @@
 <h1 align="center">FAVORITES &nbsp;ΑΓΑΠΗΜΕΝΑ&nbsp;ИЗБРАННОЕ&nbsp;FAVORIETEN&nbsp;FAVORITER</h1>
 <br>
 <br>
-<img src="https://github.com/panoply/panoply/blob/6929889f1a3ed510724b031cf3525cc3c5c26b55/stack.png" width="100%">
+<a href="https://github.com/panoply"><img src="https://github.com/panoply/panoply/blob/6929889f1a3ed510724b031cf3525cc3c5c26b55/stack.png" width="100%"></a>
