@@ -10,4 +10,4 @@ _I am not your typical software engineer. I work rogue in this nexus with an eso
 
 #### _FAVOURITES_
 
-<img src="https://github.com/panoply/panoply/blob/6929889f1a3ed510724b031cf3525cc3c5c26b55/stack.png" width="90%">
+<img src="https://github.com/panoply/panoply/blob/6929889f1a3ed510724b031cf3525cc3c5c26b55/stack.png" width="100%">
