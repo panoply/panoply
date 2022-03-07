@@ -19,7 +19,7 @@ _I primarily work with established apparel brands to deliver innovative headless
 
 <h4 align="center"><i>Not your typical software engineer.</i></h4>
 
-_Before discovering a passion for this field I was a professionally boxer so my path to programming was different for most. I've been referred to as a **rogue developer** because outside of the digital realm my life, friends and interests are impertinent to this nexus. The provisional point of my interest in programming is sui generis of internet and without that it will cease to exist._ 
+_Before discovering a passion for this field I was a professionally boxer so my path to programming was different from most. I've been referred to as a **rogue developer** because outside of the digital realm my life, friends and interests are impertinent to this nexus. The provisional point of my interest in programming is sui generis of internet and without that it will cease to exist._ 
 
 <h4 align="center"><i>Approaches and interests</i></h4>
 
