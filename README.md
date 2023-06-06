@@ -1,23 +1,19 @@
-<h4 align="center"><i>Point of focus and works</i></h4>
-<p align="center">  
-I primarily work with established apparel brands to deliver innovative headless/static commerce (web app) solutions for B2B and B2C businesses. I am currently focused on creating web applications and tooling leveraging JavaScript/TypeScript on serverless architecture operating atop of SaaS platforms Shopify, Centra, Netlify, Google Cloud and AWS. 
+<h4><i>Approaches and interests</i></h4>
+<p>
+<i>I build various types of applications, modules and developer tooling. Creating parsers/lexers, websites, webshops, ERPs, APIs, basic node utilities, text editor extensions/plugins and more. You can typically reach me on <a href="https://twitter.com/niksavvidis">Twitter</a> ranting about pugilism (boxing).</i>
 </p>
 
-<h4 align="center"><i>Cut from a different cloth.</i></h4>
-
-<p align="center">My path to programming differs from most in the industry and before entering this field I boxed professionally. The provisional point of my interest in software engineering is sui generis of internet and outside the digital realm my life, hobbies and friends are impertinent to the programming nexus.
+<h4><i>Point of focus</i></h4>
+<p>  
+<i>I primarily work with established apparel brands to deliver innovative headless/static commerce (web app) solutions for B2B and B2C businesses. I am currently focused on creating web applications and tooling leveraging JavaScript/TypeScript on serverless architecture operating atop of SaaS platforms Shopify, Centra, Netlify, Google Cloud and AWS.</i> 
 </p>
 
-<h4 align="center"><i>Approaches and interests</i></h4>
-<p align="center">
-I have built various types of applications and toolings. Websites, webshops, ERPs, APIs, Parsers, Lexers, basic node utilities, text editor extensions/plugins. You can typically reach me on <a href="https://twitter.com/niksavvidis">twitter</a> ranting about pugilism.
+<h4><i>We are not the same</i></h4>
+<p><i>I'm cut from a different cloth and my path to programming differs from most. Before entering this field I boxed professionally and made money prize fighting in unsanctioned bouts. The provisional point of my interest in software engineering is sui generis of internet and outside the digital realm my day job, my life, my hobbies and my friends are impertinent to the programming nexus.</i>
 </p>
-<br>
-<h3 align="center">[ <a href="mailto:n.savvidis@gmx.com">EMAIL ME<a/> ]</h3>
-<p align="center">
-  ❌<br>
-  ❌<br>
-  ❌
+<h4><i>Lexeme</i></h4>
+<p>
+  <i><a href="mailto:n.savvidis@gmx.com">Email<a/></i>&nbsp;&nbsp;&nbsp;&nbsp;~&nbsp;&nbsp;&nbsp;&nbsp;
+  <i><a href="https://twitter.com/niksavvidis" target="_blank">Twitter<a/>
 </p>
-<h3 align="center">[ <a href="https://twitter.com/niksavvidis" target="_blank">TWEET ME<a/> ]</h3>
   
