@@ -1,6 +1,6 @@
 <h4><i>Approaches and interests</i></h4>
 <p>
-<i>I build various types of applications, modules and developer tooling. Creating parsers/lexers, websites, webshops, ERPs, APIs, basic node utilities, text editor extensions/plugins and more. You can typically reach me on <a href="https://twitter.com/niksavvidis">Twitter</a> ranting about pugilism (boxing).</i>
+<i>I build various types of applications, modules and developer tooling. Creating parsers/lexers, websites, webshops, ERPs, APIs, basic node utilities, text editor extensions/plugins and more. You can typically reach me on <a href="https://twitter.com/niksavvidis">X</a> ranting about pugilism (boxing) and code.</i>
 </p>
 
 <h4><i>Point of focus</i></h4>
@@ -14,6 +14,6 @@
 <h4><i>Lexeme</i></h4>
 <p>
   <i><a href="mailto:n.savvidis@gmx.com">Email<a/></i>&nbsp;&nbsp;&nbsp;&nbsp;~&nbsp;&nbsp;&nbsp;&nbsp;
-  <i><a href="https://twitter.com/niksavvidis" target="_blank">Twitter<a/>
+  <i><a href="https://twitter.com/niksavvidis" target="_blank">X<a/>
 </p>
   
