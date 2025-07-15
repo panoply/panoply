@@ -1,4 +1,4 @@
-<h4><i>Core</i></h4>
+<h4><i>Panoply</i></h4>
 <p>
 <i>I develop, design and deliver various types of applications, modules and developer tooling. Creating parsers/lexers, websites, webshops, ERPs, APIs, IDE extensions/plugins written in JavaScript/TypeScript. You can typically reach me on <a href="https://twitter.com/niksavvidis">X</a> discussing pugilism (boxing) and code.</i>
 </p>
