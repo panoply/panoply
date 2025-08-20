@@ -5,7 +5,7 @@
 
 <h4><i>Nexus</i></h4>
 <p>  
-<i>I've primarily worked with established apparel brands delivering innovative headless and static commerce solutions for established apparel brands, serving both B2B and B2C markets atop of SaaS platforms Shopify, Centra, Netlify, Google Cloud and AWS. Currently, I am developing enterprise software and web application/s for music and digital signage leveraging <a href="https://sinjs.com" target="_blank">sin.js<a/>.
+<i>I've primarily worked with established apparel brands delivering innovative headless and static commerce solutions at scale, serving both B2B and B2C markets atop of SaaS platforms Shopify, Centra, Netlify, Google Cloud and AWS. Currently, I am developing enterprise software and web application/s for music and digital signage leveraging <a href="https://sinjs.com" target="_blank">sin.js<a/>.
 </i> 
 </p>
 
